@@ -1,5 +1,5 @@
 _repo: Wilhelm-Meisters-Lehrjahre-Band-4_2338
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -32,5 +32,6 @@ subjects:
 - !lcsh 'Theater, Traveling -- Fiction'
 - !lcsh 'Bildungsromans'
 - !lcc 'PT'
+- GITenberg
 title: Wilhelm Meisters Lehrjahre — Band 4
 url: http://www.gutenberg.org/ebooks/2338
